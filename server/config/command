@@ -1,0 +1,17 @@
+----Authentication using ‘bcrypt’ on Express/NodeJs----
+npm install bcrypt
+
+---express validator package for validation----
+npm install express-validator
+
+
+-------------------(new added on 3rd july)-----------------------
+
+------------Passport is authentication-----------------
+npm install passport
+
+npm install body-parser
+
+npm install passport-local
+
+npm install express-session
